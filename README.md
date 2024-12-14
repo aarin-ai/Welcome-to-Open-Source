@@ -1716,6 +1716,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Kaone Keboetseng</b></sub>
                 </a>
             </td>
+                        <td align="center">
+                <a href="https://github.com/aarin-ai">
+                    <img src="https://private-avatars.githubusercontent.com/u/191666976?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQxNjMzODAsIm5iZiI6MTczNDE2MjE4MCwicGF0aCI6Ii91LzE5MTY2Njk3NiJ9.6n95uMNzb6hYvppnzD9FtXlLoo59igzJNWPjn43U95c&v=4" width="100px;" alt="AARIN"/>
+                    <br />
+                    <sub><b>AARIN</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
